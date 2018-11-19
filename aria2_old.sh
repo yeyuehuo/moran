@@ -56,14 +56,14 @@ Download_aria2(){
 }
 Service_aria2(){
 	if [[ ${release} = "centos" ]]; then
-		if ! wget --no-check-certificate https://raw.githubusercontent.com/moranchenxi/doubi/master/other/aria2_centos -O /etc/init.d/aria2; then
+		if ! wget --no-check-certificate https://raw.githubusercontent.com/moranchenxi/moran/master/other/aria2_centos -O /etc/init.d/aria2; then
 			echo -e "${Error} Aria2服务 管理脚本下载失败 !" && exit 1
 		fi
 		chmod +x /etc/init.d/aria2
 		chkconfig --add aria2
 		chkconfig aria2 on
 	else
-		if ! wget --no-check-certificate https://raw.githubusercontent.com/moranchenxi/doubi/master/other/aria2_debian -O /etc/init.d/aria2; then
+		if ! wget --no-check-certificate https://raw.githubusercontent.com/moranchenxi/moran/master/other/aria2_debian -O /etc/init.d/aria2; then
 			echo -e "${Error} Aria2服务 管理脚本下载失败 !" && exit 1
 		fi
 		chmod +x /etc/init.d/aria2
@@ -85,7 +85,7 @@ Installation_dependency(){
 		yum install aria2 curl unzip vim -y
 	elif [[ ${release} = "debian" ]]; then
 		mv /etc/apt/sources.list /etc/apt/sources.list.bak
-		wget --no-check-certificate -O "/etc/apt/sources.list" "https://raw.githubusercontent.com/moranchenxi/doubi/master/sources/us.sources_stretch.list"
+		wget --no-check-certificate -O "/etc/apt/sources.list" "https://raw.githubusercontent.com/moranchenxi/moran/master/sources/us.sources_stretch.list"
 		apt-get update
 		apt-get install aria2 curl unzip vim -y
 		rm -rf /etc/apt/sources.list
@@ -203,14 +203,14 @@ Set_iptables(){
 }
 Update_Shell(){
 	echo -e "当前版本为 [ ${sh_ver} ]，开始检测最新版本..."
-	sh_new_ver=$(wget --no-check-certificate -qO- "https://raw.githubusercontent.com/moranchenxi/doubi/master/aria2.sh"|grep 'sh_ver="'|awk -F "=" '{print $NF}'|sed 's/\"//g'|head -1)
+	sh_new_ver=$(wget --no-check-certificate -qO- "https://raw.githubusercontent.com/moranchenxi/moran/master/aria2.sh"|grep 'sh_ver="'|awk -F "=" '{print $NF}'|sed 's/\"//g'|head -1)
 	[[ -z ${sh_new_ver} ]] && echo -e "${Error} 检测最新版本失败 !" && exit 0
 	if [[ ${sh_new_ver} != ${sh_ver} ]]; then
 		echo -e "发现新版本[ ${sh_new_ver} ]，是否更新？[Y/n]"
 		stty erase '^H' && read -p "(默认: y):" yn
 		[[ -z "${yn}" ]] && yn="y"
 		if [[ ${yn} == [Yy] ]]; then
-			wget -N --no-check-certificate https://raw.githubusercontent.com/moranchenxi/doubi/master/aria2.sh && chmod +x aria2.sh
+			wget -N --no-check-certificate https://raw.githubusercontent.com/moranchenxi/moran/master/aria2.sh && chmod +x aria2.sh
 			echo -e "脚本已更新为最新版本[ ${sh_new_ver} ] !"
 		else
 			echo && echo "	已取消..." && echo
