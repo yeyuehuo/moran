@@ -609,7 +609,7 @@ Debian_apt(){
 # 下载 ShadowsocksR
 Download_SSR(){
 	cd "/usr/local/"
-	wget -N --no-check-certificate "https://github.com/moranchenxi/shadowsocksr/archive/manyuser.zip"
+	wget -N --no-check-certificate "https://github.com/yeyuehuo/shadowsocksr/archive/manyuser.zip"
 	#git config --global http.sslVerify false
 	#env GIT_SSL_NO_VERIFY=true git clone -b manyuser https://github.com/moranchenxi/shadowsocksr.git
 	#[[ ! -e ${ssr_folder} ]] && echo -e "${Error} ShadowsocksR服务端 下载失败 !" && exit 1
@@ -626,14 +626,14 @@ Download_SSR(){
 }
 Service_SSR(){
 	if [[ ${release} = "centos" ]]; then
-		if ! wget --no-check-certificate https://raw.githubusercontent.com/moranchenxi/moran/master/service/ssr_centos -O /etc/init.d/ssr; then
+		if ! wget --no-check-certificate https://raw.githubusercontent.com/yeyuehuo/moran/master/service/ssr_centos -O /etc/init.d/ssr; then
 			echo -e "${Error} ShadowsocksR服务 管理脚本下载失败 !" && exit 1
 		fi
 		chmod +x /etc/init.d/ssr
 		chkconfig --add ssr
 		chkconfig ssr on
 	else
-		if ! wget --no-check-certificate https://raw.githubusercontent.com/moranchenxi/moran/master/service/ssr_debian -O /etc/init.d/ssr; then
+		if ! wget --no-check-certificate https://raw.githubusercontent.com/yeyuehuo/moran/master/service/ssr_debian -O /etc/init.d/ssr; then
 			echo -e "${Error} ShadowsocksR服务 管理脚本下载失败 !" && exit 1
 		fi
 		chmod +x /etc/init.d/ssr
@@ -1380,12 +1380,12 @@ Other_functions(){
 }
 # 封禁 BT PT SPAM
 BanBTPTSPAM(){
-	wget -N --no-check-certificate https://raw.githubusercontent.com/moranchenxi/moran/master/ban_iptables.sh && chmod +x ban_iptables.sh && bash ban_iptables.sh banall
+	wget -N --no-check-certificate https://raw.githubusercontent.com/yeyuehuo/moran/master/ban_iptables.sh && chmod +x ban_iptables.sh && bash ban_iptables.sh banall
 	rm -rf ban_iptables.sh
 }
 # 解封 BT PT SPAM
 UnBanBTPTSPAM(){
-	wget -N --no-check-certificate https://raw.githubusercontent.com/moranchenxi/moran/master/ban_iptables.sh && chmod +x ban_iptables.sh && bash ban_iptables.sh unbanall
+	wget -N --no-check-certificate https://raw.githubusercontent.com/yeyuehuo/moran/master/ban_iptables.sh && chmod +x ban_iptables.sh && bash ban_iptables.sh unbanall
 	rm -rf ban_iptables.sh
 }
 Set_config_connect_verbose_info(){
@@ -1418,13 +1418,13 @@ Set_config_connect_verbose_info(){
 	fi
 }
 Update_Shell(){
-	sh_new_ver=$(wget --no-check-certificate -qO- -t1 -T3 "https://raw.githubusercontent.com/moranchenxi/moran/master/ssr.sh"|grep 'sh_ver="'|awk -F "=" '{print $NF}'|sed 's/\"//g'|head -1) && sh_new_type="github"
+	sh_new_ver=$(wget --no-check-certificate -qO- -t1 -T3 "https://raw.githubusercontent.com/yeyuehuo/moran/master/ssr.sh"|grep 'sh_ver="'|awk -F "=" '{print $NF}'|sed 's/\"//g'|head -1) && sh_new_type="github"
 	[[ -z ${sh_new_ver} ]] && echo -e "${Error} 无法链接到 Github !" && exit 0
 	if [[ -e "/etc/init.d/ssr" ]]; then
 		rm -rf /etc/init.d/ssr
 		Service_SSR
 	fi
-	wget -N --no-check-certificate "https://raw.githubusercontent.com/moranchenxi/moran/master/ssr.sh" && chmod +x ssr.sh
+	wget -N --no-check-certificate "https://raw.githubusercontent.com/yeyuehuo/moran/master/ssr.sh" && chmod +x ssr.sh
 	echo -e "脚本已更新为最新版本[ ${sh_new_ver} ] !(注意：因为更新方式为直接覆盖当前运行的脚本，所以可能下面会提示一些报错，无视即可)" && exit 0
 }
 # 显示 菜单状态
