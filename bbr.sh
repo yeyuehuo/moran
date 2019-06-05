@@ -18,9 +18,9 @@
 
 
 
-  <link crossorigin="anonymous" media="all" integrity="sha512-3+HOqCwtQal5hOJQ+mdxiq5zmGOTjF6RhjDsPLxbKDYgGlLFeCwzoIanb7j5IiCuXKUqyC2q8FdkC4nmx2P2rA==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-a2fba223d5af91496cac70d4ec3624df.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-dsqgdBtnWun6oxDg9q1xezEyITXQ8QsMdFm+JDoDk6Tzx9AEE1XcUEhWff/M2Jv85ucTVJCjp/2fGbh6Omtrgg==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-41c2037bf12f1e46d8f08b88a04a8d8f.css" />
   
-    <link crossorigin="anonymous" media="all" integrity="sha512-e2cd11Gwm/SnNMk4avW8Pegf5TL3BOHKEDRrRx/u2dt3vZ/V1jI3ckZPooFM9/nY6QPCmoa7QpyUEho4JqtJIg==" rel="stylesheet" href="https://github.githubassets.com/assets/github-7d88b16c450c546e1d642f3e2215a89c.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-HYYvYpTgdljF+jGooA+CR8sVfWkEysRQJn15m9cKWOPwc9ZUSYPKXLWp82zYKPir+BH36NsesqliYFtBWAn9DQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-5604f7ab2b481e74ad33491877db1226.css" />
     
     
     
@@ -28,20 +28,20 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>blog/bbr.sh at master · sprov065/blog</title>
-    <meta name="description" content="https://blog.sprov.xyz 博客的仓库. Contribute to sprov065/blog development by creating an account on GitHub.">
+  <title>across/bbr.sh at master · teddysun/across</title>
+    <meta name="description" content="Across the Great Wall we can reach every corner in the world - teddysun/across">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
-    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/47310637?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="sprov065/blog" /><meta name="twitter:description" content="https://blog.sprov.xyz 博客的仓库. Contribute to sprov065/blog development by creating an account on GitHub." />
-    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/47310637?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="sprov065/blog" /><meta property="og:url" content="https://github.com/sprov065/blog" /><meta property="og:description" content="https://blog.sprov.xyz 博客的仓库. Contribute to sprov065/blog development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://avatars2.githubusercontent.com/u/1475030?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="teddysun/across" /><meta name="twitter:description" content="Across the Great Wall we can reach every corner in the world - teddysun/across" />
+    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/1475030?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="teddysun/across" /><meta property="og:url" content="https://github.com/teddysun/across" /><meta property="og:description" content="Across the Great Wall we can reach every corner in the world - teddysun/across" />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDEwNDgzMTgwOmJkNTYwMTllMWY3NTg3NWViNTYyZjM2N2ZjNGUwMWU3MmFmMzExYTc5MTY3MjhjMTM3YzI5YjMyNTc1NDU4NmE=--33fa24eb7bc2ef812627666f805e60c66ce280e7">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDEwNDgzMTgwOmMxZmEyNDhlNzc1MjNhMTg2OTAyMmYyYzQzYmI2Y2M4MDBjYzdiMzQzODIxOGY5MWI2MzMwYTQzNzJkNWFmZDk=--fd7a35bf4b650dcf690138b6cd4b760f7264cdad">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="0BC9:34E3:78DA7E:AB6542:5CF2C522" data-pjax-transient>
+  <meta name="request-id" content="1157:2D22:61F0B7:8A08F1:5CF79C6E" data-pjax-transient>
 
 
   
@@ -52,8 +52,8 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="0BC9:34E3:78DA7E:AB6542:5CF2C522" /><meta name="octolytics-dimension-region_edge" content="ap-southeast-1" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="45181320" /><meta name="octolytics-actor-login" content="yeyuehuo" /><meta name="octolytics-actor-hash" content="eac849e1f045b9afa0e1e3494b0c94f6bc38659f44055bb5aedd4724491ea40b" />
-<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="1157:2D22:61F0B7:8A08F1:5CF79C6E" /><meta name="octolytics-dimension-region_edge" content="ap-southeast-1" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="45181320" /><meta name="octolytics-actor-login" content="yeyuehuo" /><meta name="octolytics-actor-hash" content="eac849e1f045b9afa0e1e3494b0c94f6bc38659f44055bb5aedd4724491ea40b" />
+<meta name="analytics-location-query-strip" content="true" data-pjax-transient="true" /><meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
 
@@ -71,23 +71,23 @@
     <meta name="user-login" content="yeyuehuo">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NWQ5ZjEzMDUyYmUyOGI1ODUxMGRmYTM0NmZlN2JkMmQ0MjcxOGVhNjg5MjRjNGQ1MDQ1ODVkZjRiZTNjZmY3Znx7InJlbW90ZV9hZGRyZXNzIjoiMTA2LjIyNi45OS4xMjIiLCJyZXF1ZXN0X2lkIjoiMEJDOTozNEUzOjc4REE3RTpBQjY1NDI6NUNGMkM1MjIiLCJ0aW1lc3RhbXAiOjE1NTk0MTQwNTAsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="ZWUyOTVmOTA4ZThkNzllMGVmYWU0ODIxOWUyNjU4YjM0MjE0YjI3MTUxNGU2YzlkYWNjZDJmYTlkMWNkNmZlMXx7InJlbW90ZV9hZGRyZXNzIjoiMTA2LjIyNi45OS4xMjIiLCJyZXF1ZXN0X2lkIjoiMTE1NzoyRDIyOjYxRjBCNzo4QTA4RjE6NUNGNzlDNkUiLCJ0aW1lc3RhbXAiOjE1NTk3MzEzMTEsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES">
 
   <meta name="html-safe-nonce" content="39e0931d9e9d76de8d95748733c90f0d1418d716">
 
-  <meta http-equiv="x-pjax-version" content="3adbd63ea2ad294c944dc0fffcb8e5b8">
+  <meta http-equiv="x-pjax-version" content="ba092fc3ad5dff2e5a1b2ec9a906573f">
   
 
-      <link href="https://github.com/sprov065/blog/commits/master.atom" rel="alternate" title="Recent Commits to blog:master" type="application/atom+xml">
+      <link href="https://github.com/teddysun/across/commits/master.atom" rel="alternate" title="Recent Commits to across:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/sprov065/blog git https://github.com/sprov065/blog.git">
+  <meta name="go-import" content="github.com/teddysun/across git https://github.com/teddysun/across.git">
 
-  <meta name="octolytics-dimension-user_id" content="47310637" /><meta name="octolytics-dimension-user_login" content="sprov065" /><meta name="octolytics-dimension-repository_id" content="169024068" /><meta name="octolytics-dimension-repository_nwo" content="sprov065/blog" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="169024068" /><meta name="octolytics-dimension-repository_network_root_nwo" content="sprov065/blog" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="1475030" /><meta name="octolytics-dimension-user_login" content="teddysun" /><meta name="octolytics-dimension-repository_id" content="32967073" /><meta name="octolytics-dimension-repository_nwo" content="teddysun/across" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="32967073" /><meta name="octolytics-dimension-repository_network_root_nwo" content="teddysun/across" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/sprov065/blog/blob/master/bbr.sh" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/teddysun/across/blob/master/bbr.sh" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -144,7 +144,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="169024068" data-scoped-search-url="/sprov065/blog/search" data-unscoped-search-url="/search" action="/sprov065/blog/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="32967073" data-scoped-search-url="/teddysun/across/search" data-unscoped-search-url="/search" action="/teddysun/across/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -158,7 +158,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=cJ2xdniXnbCc0Xvyp42yBrHJP/U4Ap6x0nBXBWTw4XArhKBnMO0tQDXAhbkFD2ymQH3vikq11mYhQ2nuQGDBwQ=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=sx25mpyrrQjSY+XzJvmYXWvWeZ+APSP535MGuI307rboBKiL1NEd+HtyG7iEe0b9mmKp4PKKay4soDhTqWTOBw=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -298,7 +298,7 @@
     <div>
       <a class="js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar" data-selected-links=" /marketplace" href="/marketplace">
         Marketplace
-</a>        
+</a>      
     </div>
 
   <a class="js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
@@ -308,7 +308,7 @@
       <img class="avatar" src="https://avatars2.githubusercontent.com/u/45181320?s=40&amp;v=4" width="20" height="20" alt="@yeyuehuo" />
       yeyuehuo
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="l0w/LUzz1Lcqa+NZ1u2ua/QyldWntuhN2ACMaAUPT+4aRhDmgqGdAiM4k7bSM4TxoBFaV22Wcg1L1S6F9gwNcw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Ub8nxHh9C0bXzdZS6dtQlncpE7ksWR/0yo1KRVhgbH3ctQgPti9C896epr3tBXoMIwrcO+Z5hbRZWOioq2Mu4A==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -320,9 +320,9 @@
     <div class="Header-item Header-item--full flex-justify-center d-lg-none position-relative">
       <div class="css-truncate css-truncate-target width-fit position-absolute left-0 right-0 text-center">
               <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-    <a class="Header-link" href="/sprov065">sprov065</a>
+    <a class="Header-link" href="/teddysun">teddysun</a>
     /
-    <a class="Header-link" href="/sprov065/blog">blog</a>
+    <a class="Header-link" href="/teddysun/across">across</a>
 
 </div>
     </div>
@@ -369,9 +369,9 @@
 
   <div role="none" class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="sprov065/blog">This repository</span>
+    <span title="teddysun/across">This repository</span>
   </div>
-    <a role="menuitem" class="dropdown-item" href="/sprov065/blog/issues/new" data-ga-click="Header, create new issue" data-skip-pjax>
+    <a role="menuitem" class="dropdown-item" href="/teddysun/across/issues/new" data-ga-click="Header, create new issue" data-skip-pjax>
       New issue
     </a>
 
@@ -401,7 +401,7 @@
     border
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
-    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:47310637,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:45181320,&quot;client_id&quot;:&quot;1509622922.1557089014&quot;,&quot;originating_request_id&quot;:&quot;0BC9:34E3:78DA7E:AB6542:5CF2C522&quot;,&quot;originating_url&quot;:&quot;https://github.com/sprov065/blog/blob/master/bbr.sh&quot;,&quot;referrer&quot;:&quot;https://github.com/sprov065/blog&quot;}}" data-hydro-click-hmac="94cf5034d307cdb126ccd2d3b9806a162fc170c5b13c8b1119c10557699bbc93">
+    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:1475030,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:45181320,&quot;client_id&quot;:&quot;1509622922.1557089014&quot;,&quot;originating_request_id&quot;:&quot;1157:2D22:61F0B7:8A08F1:5CF79C6E&quot;,&quot;originating_url&quot;:&quot;https://github.com/teddysun/across/blob/master/bbr.sh&quot;,&quot;referrer&quot;:&quot;https://github.com/teddysun/across/&quot;}}" data-hydro-click-hmac="ae8bd65ee9169f1f5d22993a31eedbcf49898ed161f5c21509f4acec2d90bff6">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -427,7 +427,7 @@
         </div>
       </div>
 </summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="y94nyBRxHTReX7lehww+7dySuK3twTONiFmc9y1VehY8Td061aTl8fryOy4jXk5VcfdMAeyjO612Ra1DEOLl1Q==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="FeyDpVhqtmmUppiYahQiVGTV+tm0ZiF8R0ZrqmNyjvzif3lXmb9OrDALGujORlLsybAOdbUEKVy5WloeXsURPw==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -547,27 +547,27 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-06-02T03:04:10+08:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-06-05T19:11:51+08:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-06-02T03:34:10+08:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-06-05T19:41:51+08:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-06-02T06:34:10+08:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-06-05T22:41:51+08:00">
             in 4 hours
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="today" value="2019-06-02T23:59:59+08:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="today" value="2019-06-05T23:59:59+08:00">
             today
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="this week" value="2019-06-02T23:59:59+08:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="this week" value="2019-06-09T23:59:59+08:00">
             this week
           </button>
         </li>
@@ -605,7 +605,7 @@
     <div role="none" class="dropdown-divider"></div>
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="iWBCXmNA1W7j2rdtQIXkc2erGd54MN2IdtUG67g3p8oEam2VrRKc2+qJx4JEW87pM4jWXLIQR8jlAKQGSzTlVw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NDhqV9ZU/v5WqSFQjfFzYM+QL82O9Cu5iYPEOW77Yum5MkWcGAa3S1/6Ub+JL1n6m7PgT0TUsfkaVmbUnfggdA==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
@@ -653,10 +653,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="P2t27zrnPHTJI0m6CKzQv+WdXMRhXnytq55XeFDJAn4qBucVgd3hY9E/ERLSUJPfKaWyMbkOEqvBdHFHInFnfQ==" />      <input type="hidden" name="repository_id" value="169024068">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="GbZiepeuWUJC5PCBilZUNyq7xr6ZPyjR5JOhNHmiQaIM2/OALJSEVVr4qClQqhdX5oMoS0FvRteOeYcLCxokoQ==" />      <input type="hidden" name="repository_id" value="32967073">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:169024068,&quot;client_id&quot;:&quot;1509622922.1557089014&quot;,&quot;originating_request_id&quot;:&quot;0BC9:34E3:78DA7E:AB6542:5CF2C522&quot;,&quot;originating_url&quot;:&quot;https://github.com/sprov065/blog/blob/master/bbr.sh&quot;,&quot;referrer&quot;:&quot;https://github.com/sprov065/blog&quot;,&quot;user_id&quot;:45181320}}" data-hydro-click-hmac="b6c5a81d1ba44de9c9c7be18035a4242236b0523cbcd0d6f1ba45031d364e330" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:32967073,&quot;client_id&quot;:&quot;1509622922.1557089014&quot;,&quot;originating_request_id&quot;:&quot;1157:2D22:61F0B7:8A08F1:5CF79C6E&quot;,&quot;originating_url&quot;:&quot;https://github.com/teddysun/across/blob/master/bbr.sh&quot;,&quot;referrer&quot;:&quot;https://github.com/teddysun/across/&quot;,&quot;user_id&quot;:45181320}}" data-hydro-click-hmac="d439e091d065e1e73dc7c8477a7b8fb77f25411c3ba8f26ff414776af479f367" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -718,53 +718,53 @@
         </details-menu>
       </details>
         <a class="social-count js-social-count"
-          href="/sprov065/blog/watchers"
-          aria-label="0 users are watching this repository">
-          0
+          href="/teddysun/across/watchers"
+          aria-label="105 users are watching this repository">
+          105
         </a>
 </form>
   </li>
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/sprov065/blog/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XWcLfeXgDWskRLUHwKKV5472OSNtlBarZEYue6PVw0Koht0UEa74oojcRGJLvm0C/fQ/PBdNuCwy04icnQ1Xvw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/teddysun/across/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0F+dlT7xebKXWoM9Ylo/BnEg/yzVBZG06ije9QhlYJB3U8JfGD80R01A/gX9E837yrDfasC5SHtJVh6tGhHgHw==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar sprov065/blog" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:169024068,&quot;client_id&quot;:&quot;1509622922.1557089014&quot;,&quot;originating_request_id&quot;:&quot;0BC9:34E3:78DA7E:AB6542:5CF2C522&quot;,&quot;originating_url&quot;:&quot;https://github.com/sprov065/blog/blob/master/bbr.sh&quot;,&quot;referrer&quot;:&quot;https://github.com/sprov065/blog&quot;,&quot;user_id&quot;:45181320}}" data-hydro-click-hmac="820f62cbcd1dcd8f975116b3e46337c59856a1c5cfcf8d5111dabb60d3e40057" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar teddysun/across" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:32967073,&quot;client_id&quot;:&quot;1509622922.1557089014&quot;,&quot;originating_request_id&quot;:&quot;1157:2D22:61F0B7:8A08F1:5CF79C6E&quot;,&quot;originating_url&quot;:&quot;https://github.com/teddysun/across/blob/master/bbr.sh&quot;,&quot;referrer&quot;:&quot;https://github.com/teddysun/across/&quot;,&quot;user_id&quot;:45181320}}" data-hydro-click-hmac="1beeb0d0e4631d5c32dc415b832b62ac607cb9aa60c0f4ff3a0bb9f2d61a99ac" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
-</button>        <a class="social-count js-social-count" href="/sprov065/blog/stargazers"
-           aria-label="0 users starred this repository">
-          0
+</button>        <a class="social-count js-social-count" href="/teddysun/across/stargazers"
+           aria-label="1991 users starred this repository">
+          1,991
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/sprov065/blog/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3idqjcxFN+b9RUz8XPgIOMTDC1gDvxjpa59+rDo8a3KD8ZJsD0kLV+nJNWfJbJjbS0mkQR/3zqPwuEa6+aTlvQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/teddysun/across/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="BZ7K4coMs4cxmApQFVl/VrxCv1BXpGjd27mF+OCP6jKUSKsnfF3SDX+pMqbHncWAiYAxilfRTUFcrrBs7zocVw==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star sprov065/blog" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:169024068,&quot;client_id&quot;:&quot;1509622922.1557089014&quot;,&quot;originating_request_id&quot;:&quot;0BC9:34E3:78DA7E:AB6542:5CF2C522&quot;,&quot;originating_url&quot;:&quot;https://github.com/sprov065/blog/blob/master/bbr.sh&quot;,&quot;referrer&quot;:&quot;https://github.com/sprov065/blog&quot;,&quot;user_id&quot;:45181320}}" data-hydro-click-hmac="246b600f85a2833d392c9297d88b8985dcf387cdb9a885772a8653816f9c5edd" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star teddysun/across" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:32967073,&quot;client_id&quot;:&quot;1509622922.1557089014&quot;,&quot;originating_request_id&quot;:&quot;1157:2D22:61F0B7:8A08F1:5CF79C6E&quot;,&quot;originating_url&quot;:&quot;https://github.com/teddysun/across/blob/master/bbr.sh&quot;,&quot;referrer&quot;:&quot;https://github.com/teddysun/across/&quot;,&quot;user_id&quot;:45181320}}" data-hydro-click-hmac="2e5b124b8bac4a63db27f0064855942b8594f4efd373043cebaf24a922b3dd1a" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
-</button>        <a class="social-count js-social-count" href="/sprov065/blog/stargazers"
-           aria-label="0 users starred this repository">
-          0
+</button>        <a class="social-count js-social-count" href="/teddysun/across/stargazers"
+           aria-label="1991 users starred this repository">
+          1,991
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/sprov065/blog/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2GaTpFBWUSGKmkMOEsIJQ7/p+pBl3GQfeRiNesIqIzIarqTaaf6JQRYF7XpqRy2IdPlHTkxI8WtaW1UlgnbCyA==" />
-            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:169024068,&quot;client_id&quot;:&quot;1509622922.1557089014&quot;,&quot;originating_request_id&quot;:&quot;0BC9:34E3:78DA7E:AB6542:5CF2C522&quot;,&quot;originating_url&quot;:&quot;https://github.com/sprov065/blog/blob/master/bbr.sh&quot;,&quot;referrer&quot;:&quot;https://github.com/sprov065/blog&quot;,&quot;user_id&quot;:45181320}}" data-hydro-click-hmac="1c0c2485a1c2e0b04e3949accf9ece877dbc67238aa2f5039b0984530291fda7" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of sprov065/blog to your account" aria-label="Fork your own copy of sprov065/blog to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/teddysun/across/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wL7k/341E5bUitRdFvO0Ch3ncT+EgzHcmta1k2yQxHAQePQG6Q4wW5CtD324P3c0QueXRo4VpMMEE113kN4qcw==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:32967073,&quot;client_id&quot;:&quot;1509622922.1557089014&quot;,&quot;originating_request_id&quot;:&quot;1157:2D22:61F0B7:8A08F1:5CF79C6E&quot;,&quot;originating_url&quot;:&quot;https://github.com/teddysun/across/blob/master/bbr.sh&quot;,&quot;referrer&quot;:&quot;https://github.com/teddysun/across/&quot;,&quot;user_id&quot;:45181320}}" data-hydro-click-hmac="15b517f5e6b0fe0287cc96272c47328b3581de3c78da3a63ca2c060635b54c9e" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of teddysun/across to your account" aria-label="Fork your own copy of teddysun/across to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
 </button></form>
-    <a href="/sprov065/blog/network/members" class="social-count"
-       aria-label="7 users forked this repository">
-      7
+    <a href="/teddysun/across/network/members" class="social-count"
+       aria-label="1270 users forked this repository">
+      1,270
     </a>
   </li>
 </ul>
 
       <h1 class="public ">
     <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=47310637" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sprov065">sprov065</a></span><!--
+  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1475030" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/teddysun">teddysun</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/sprov065/blog">blog</a></strong>
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/teddysun/across">across</a></strong>
   
 
 </h1>
@@ -778,40 +778,40 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /sprov065/blog" href="/sprov065/blog">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /teddysun/across" href="/teddysun/across">
       <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /sprov065/blog/issues" href="/sprov065/blog/issues">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /teddysun/across/issues" href="/teddysun/across/issues">
         <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
         <span itemprop="name">Issues</span>
-        <span class="Counter">0</span>
+        <span class="Counter">11</span>
         <meta itemprop="position" content="2">
 </a>    </span>
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /sprov065/blog/pulls" href="/sprov065/blog/pulls">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /teddysun/across/pulls" href="/teddysun/across/pulls">
       <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
-      <span class="Counter">0</span>
+      <span class="Counter">3</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
 
-    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /sprov065/blog/projects" href="/sprov065/blog/projects">
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /teddysun/across/projects" href="/teddysun/across/projects">
       <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
       Projects
       <span class="Counter" >0</span>
 </a>
 
-    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /sprov065/blog/wiki" href="/sprov065/blog/wiki">
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /teddysun/across/wiki" href="/teddysun/across/wiki">
       <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
       Wiki
 </a>
-    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy /sprov065/blog/security/advisories" href="/sprov065/blog/security/advisories">
+    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy /teddysun/across/security/advisories" href="/teddysun/across/security/advisories">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="octicon" height="16px" width="16px">
     <path fill-rule="evenodd" clip-rule="evenodd" d="M1 2l7-2 7 2v6.02C15 12.69 9.69 16 8 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L8 1l6 1.75v5.268C14 12.104 9.45 15 8 15c-1.45 0-6-2.896-6-6.982V2.75z"></path>
     <path d="M3 3.5L8 2v12c-1.207 0-5-2.482-5-5.985V3.5z"></path>
@@ -819,7 +819,7 @@
 
       Security
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse people /sprov065/blog/pulse" href="/sprov065/blog/pulse">
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse people /teddysun/across/pulse" href="/teddysun/across/pulse">
       <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
       Insights
 </a>
@@ -832,47 +832,47 @@
        itemtype="http://schema.org/BreadcrumbList">
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /sprov065/blog" href="/sprov065/blog">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /teddysun/across" href="/teddysun/across">
         <span itemprop="name">Code</span>
         <meta itemprop="position" content="1">
 </a>    </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /sprov065/blog/issues" href="/sprov065/blog/issues">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /teddysun/across/issues" href="/teddysun/across/issues">
           <span itemprop="name">Issues</span>
-          <span class="Counter">0</span>
+          <span class="Counter">11</span>
           <meta itemprop="position" content="2">
 </a>      </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /sprov065/blog/pulls" href="/sprov065/blog/pulls">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /teddysun/across/pulls" href="/teddysun/across/pulls">
         <span itemprop="name">Pull requests</span>
-        <span class="Counter">0</span>
+        <span class="Counter">3</span>
         <meta itemprop="position" content="3">
 </a>    </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /sprov065/blog/projects" href="/sprov065/blog/projects">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /teddysun/across/projects" href="/teddysun/across/projects">
           <span itemprop="name">Projects</span>
           <span class="Counter">0</span>
           <meta itemprop="position" content="4">
 </a>      </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /sprov065/blog/wiki" href="/sprov065/blog/wiki">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /teddysun/across/wiki" href="/teddysun/across/wiki">
           <span itemprop="name">Wiki</span>
           <meta itemprop="position" content="5">
 </a>      </span>
 
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy /sprov065/blog/security/advisories" href="/sprov065/blog/security/advisories">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy /teddysun/across/security/advisories" href="/teddysun/across/security/advisories">
         <span itemprop="name">Security</span>
         <meta itemprop="position" content="6">
 </a>
-      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /sprov065/blog/pulse" href="/sprov065/blog/pulse">
+      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /teddysun/across/pulse" href="/teddysun/across/pulse">
         Pulse
 </a>
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="community /sprov065/blog/community" href="/sprov065/blog/community">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="community /teddysun/across/community" href="/teddysun/across/community">
           Community
 </a>      </span>
 
@@ -890,9 +890,9 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sprov065/blog/blob/76039b7cbf2e57b34d5373b58fefef117940de59/bbr.sh">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/teddysun/across/blob/825142d3205a5067c66e726aaac303d5f6342cfc/bbr.sh">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:fe1ca121e2b38d8f310e325d74c5f8a4 -->
+    <!-- blob contrib key: blob_contributors:v21:daf3fa7bf715ad9b823ba6be998e9705 -->
       
 
     <div class="d-flex flex-items-start flex-shrink-0 mb-2 flex-column flex-md-row">
@@ -907,7 +907,7 @@
     <span class="css-truncate-target">master</span>
   </summary>
 
-  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/sprov065/blog/ref-list/master/bbr.sh?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/teddysun/across/ref-list/master/bbr.sh?source_action=show&amp;source_controller=blob" preload>
     <include-fragment class="select-menu-loading-overlay anim-pulse">
       <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
     </include-fragment>
@@ -915,7 +915,7 @@
 </details>
 
         <div class="BtnGroup flex-shrink-0 d-md-none">
-          <a href="/sprov065/blog/find/master"
+          <a href="/teddysun/across/find/master"
                 class="js-pjax-capture-input btn btn-sm BtnGroup-item"
                 data-pjax
                 data-hotkey="t">
@@ -927,11 +927,11 @@
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/sprov065/blog"><span>blog</span></a></span></span><span class="separator">/</span><strong class="final-path">bbr.sh</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/teddysun/across"><span>across</span></a></span></span><span class="separator">/</span><strong class="final-path">bbr.sh</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
-        <a href="/sprov065/blog/find/master"
+        <a href="/teddysun/across/find/master"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
@@ -949,27 +949,29 @@
   <div class="Box Box--condensed d-flex flex-column flex-shrink-0">
       <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
         <span class="pr-md-4 f6">
-          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=47310637" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sprov065"><img class="avatar" src="https://avatars0.githubusercontent.com/u/47310637?s=40&amp;v=4" width="20" height="20" alt="@sprov065" /></a>
-          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=47310637" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sprov065">sprov065</a>
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1475030" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/teddysun"><img class="avatar" src="https://avatars0.githubusercontent.com/u/1475030?s=40&amp;v=4" width="20" height="20" alt="@teddysun" /></a>
+          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1475030" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/teddysun">teddysun</a>
             <span class="lh-default v-align-middle">
-              <a data-pjax="true" title="Update bbr.sh" class="link-gray" href="/sprov065/blog/commit/9db7e062f8cb1b356520a625b9fb3cf7340f3ddc">Update bbr.sh</a>
+              <a data-pjax="true" title="Update comments
+
+Signed-off-by: Teddysun &lt;i@teddysun.com&gt;" class="link-gray" href="/teddysun/across/commit/354ebe77dbafc2efb4a5b942115df18b646a578c">Update comments</a>
             </span>
         </span>
         <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
-          <a class="pr-2 text-mono link-gray" href="/sprov065/blog/commit/9db7e062f8cb1b356520a625b9fb3cf7340f3ddc" data-pjax>9db7e06</a>
-          <relative-time datetime="2019-02-04T03:54:30Z">Feb 4, 2019</relative-time>
+          <a class="pr-2 text-mono link-gray" href="/teddysun/across/commit/354ebe77dbafc2efb4a5b942115df18b646a578c" data-pjax>354ebe7</a>
+          <relative-time datetime="2018-12-15T01:18:19Z">Dec 15, 2018</relative-time>
         </span>
       </div>
 
     <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
       <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
         <summary class="btn-link" aria-haspopup="dialog">
-          <span><strong>1</strong> contributor</span>
+          <span><strong>3</strong> contributors</span>
         </summary>
         <details-dialog
           class="Box Box--overlay d-flex flex-column anim-fade-in fast"
           aria-label="Users who have contributed to this file"
-          src="/sprov065/blog/contributors/master/bbr.sh/list" preload>
+          src="/teddysun/across/contributors/master/bbr.sh/list" preload>
           <div class="Box-header">
             <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
               <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -981,6 +983,16 @@
           <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
         </details-dialog>
       </details>
+        <span class="">
+    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1475030" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/teddysun/across/commits/master/bbr.sh?author=teddysun">
+      <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/1475030?s=40&amp;v=4" width="20" height="20" alt="@teddysun" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=34641923" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/teddysun/across/commits/master/bbr.sh?author=zorzcc">
+      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/34641923?s=40&amp;v=4" width="20" height="20" alt="@zorzcc" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=11185901" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/teddysun/across/commits/master/bbr.sh?author=wangleran">
+      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/11185901?s=40&amp;v=4" width="20" height="20" alt="@wangleran" /> 
+</a>
+</span>
+
     </div>
   </div>
 
@@ -1002,9 +1014,9 @@
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/sprov065/blog/raw/master/bbr.sh">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/sprov065/blog/blame/master/bbr.sh">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/sprov065/blog/commits/master/bbr.sh">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/teddysun/across/raw/master/bbr.sh">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/teddysun/across/blame/master/bbr.sh">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/teddysun/across/commits/master/bbr.sh">History</a>
     </div>
 
 
@@ -1016,13 +1028,13 @@
                 <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
             </a>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/sprov065/blog/edit/master/bbr.sh" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="m/jVLzQYqnakKzvo088YxENoOPHXJEvlE2c6AFaJcjlfg2tn47SunazPZS3vHOw6BlukDly6Sy17vXtL9onzRw==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/teddysun/across/edit/master/bbr.sh" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="itqLgfuYoHrpiPBSGjEThds3wLqraWxH/C51zD0iQCrtVfewVN/rkwkzcPUIiFzHe7zrkgRhowOKh2JsBaBXpg==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/sprov065/blog/delete/master/bbr.sh" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SuFWq2/PBgy3+pV1Y2IHHHGDH8Mxa+/T9xL8vZsKlH0A870QVxtf8CBn4YMGVRT5RGa2b8BLAFlcA4YyNUMU0w==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/teddysun/across/delete/master/bbr.sh" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="62Joj/TUFilWO5UMqep19mDYbzKgENvQYo2vn+i9pIH20MptYWV4I9MQZmm98Pa82AzPt2XCjagJPFPNm/5R7A==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -2641,8 +2653,8 @@
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/sprov065/blog/blame/76039b7cbf2e57b34d5373b58fefef117940de59/bbr.sh">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/sprov065/blog/issues/new">Reference in new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/teddysun/across/blame/825142d3205a5067c66e726aaac303d5f6342cfc/bbr.sh">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/teddysun/across/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
@@ -2678,7 +2690,7 @@
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.35075s from unicorn-7b7d5c8c7d-h9gjw">GitHub</span>, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.57123s from unicorn-f884f6bd7-b58zc">GitHub</span>, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
@@ -2716,9 +2728,9 @@
 
 
     
-    <script crossorigin="anonymous" integrity="sha512-P6rRiDq0lrIYgYfVPJ4Is2goJODXsywx7ozNssJbEOAwc5cBChqaUFZ+puemlu3KAI/q5XfkOBaSNjXExBE3ag==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-15d12409.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-oFBEYscCdWEyvUQehaYyaCSiKtIN4UvpfFHNpIXLUTSQ35JcacPNj86R8fgJfI1e7BOjbLZPTv1nJg3TECiMLw==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-7af24171.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-sD5UHbq6I3rl+U+HEPeL+7sTZmew8P0O2uOtuHlXNJjtex4uLuwjFRTEKF/F1KbqXw52uf1B2lIwVE5ZNUqxqg==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-857b0672.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-M8Jd6kJyl/dFuSEEkuakP28Ji7qHSVXf//At0SPPaHDp6S1kX5vMtjDubrnjeGjalvsI7kuFXLqlkDB9ycWnSQ==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-203c91ac.js"></script>
     
     
     
